@@ -63,7 +63,8 @@
 ---
 
 ## GitHub Stats
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman179102&show_icons=true&theme=radical)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman179102&show_icons=true&theme=radical&include_private=true)
+
 
 ---
 
