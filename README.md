@@ -1,4 +1,4 @@
-# Hi, I’m Aman 👋
+# Hi, I’m aman171902 aka Aman Kumar 👋
 
 ## About Me
 👨‍💻 Full-stack Developer | JavaScript ⚡ Python | Generative AI Enthusiast | Open-source & Hackathon Lover | Coffee > Code ☕  
