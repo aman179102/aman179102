@@ -62,11 +62,6 @@
 
 ---
 
-## GitHub Stats
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman179102&show_icons=true&theme=radical&include_private=true)
-
-
----
 
 ## Fun Facts
 - 🤖 Love experimenting with Generative AI  
