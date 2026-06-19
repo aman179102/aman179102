@@ -1,74 +1,73 @@
-# Hi, I’m aman171902 aka Aman Kumar 👋
+# Hi there, I'm Aman Kumar 👋
 
 ## About Me
-👨‍💻 Full-stack Developer | JavaScript ⚡ Python | Generative AI Enthusiast | Open-source & Hackathon Lover | Coffee > Code ☕  
-💻 I build full-stack web apps with amazing UX/UI, experiment with AI, and love trying new tech stacks.  
+**Full-Stack Developer | AI/ML Enthusiast | Open-Source Contributor | 80+ Hackathons 🚀**
+
+I build full-stack web apps, experiment with Generative AI, and contribute to open-source. Currently working at **InfySkill Eductech**.
 
 ---
 
-## Skills
+## 🚀 Featured Projects
 
-### **Languages & Core Tech**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🎙️ [podvoice](https://github.com/aman179102/podvoice)
+Local-first CLI that turns Markdown scripts into multi-speaker podcast-style audio using Coqui XTTS v2. ⭐ 33+
 
-### **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 💻 [CodePad](https://github.com/aman179102/CodePad)
+Free multi-language online code editor using Next.js + TypeScript. ⭐ 21+
 
-### **Dev Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge)
+### 🧠 [trust-aware](https://github.com/aman179102/trust-aware)
+A trust-aware, human-in-the-loop AI decision system that knows when not to trust model confidence. ⭐ 14+
 
-…and many more JS frameworks & libraries 💥
+### 🔍 [logx](https://github.com/aman179102/logx)
+A Unix-style CLI for filtering, counting, and summarizing log files (Go). ⭐ 12+
+
+### 😊 [moodsense-ai](https://github.com/aman179102/moodsense-ai)
+AI-powered emotion detection & personalized recommendations using NLP and ML. ⭐ 10+
+
+### ❤️ [cardioretina-ai](https://github.com/aman179102/cardioretina-ai)
+Deep learning system for cardiovascular risk prediction using retinal fundus images (PyTorch).
 
 ---
 
-## Projects
+## 🛠️ Tech Stack
 
-### 🔹 [Portfolio Website](#)
-- Personal website showcasing my work
-- Built with **Next.js, React, CSS**  
-- Focused on **UX/UI and responsiveness**
+**Languages:** JavaScript • TypeScript • Python • Go • C • C++
 
-### 🔹 [AI Meme Generator](#)
-- Generates memes using AI models
-- Built with **Python, React, Firebase**
+**Frontend:** React • Next.js • HTML5 • CSS3 • GSAP • Three.js
 
-### 🔹 [CodePad](#)
-- My playground for experimenting with code snippets
-- Built with **JavaScript, Node.js, MongoDB**
+**Backend & Database:** Node.js • Express.js • MongoDB • Firebase • Supabase • PostgreSQL
+
+**DevOps & Tools:** Docker • Kubernetes • Git • GitHub Actions • CI/CD • Linux
+
+**AI/ML:** PyTorch • NLP • Generative AI • Prompt Engineering • Computer Vision
 
 ---
 
-## Hackathons & Achievements
-- Participated in **80+ hackathons** 🚀  
-- Experienced in full-stack web development and generative AI projects  
-- Designed **high-quality UX/UI** in many projects  
+## 🏆 Achievements
+- 🔥 **80+ Hackathons** participated
+- ⭐ **150+ stars** across repositories
+- 👥 **20+ followers** on GitHub
+- 💼 Working at **InfySkill Eductech**
+- 📝 Published articles on dev.to
 
 ---
 
+## 📈 GitHub Stats
 
-## Fun Facts
-- 🤖 Love experimenting with Generative AI  
-- 🎵 Music fuels my coding sessions  
-- 🏆 Hackathons are my playground  
-- 🥳 Motto: “If it compiles, it probably works”  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman179102&show_icons=true&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aman179102&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman179102&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-✨ **Let’s build something amazing together!**
+## 🌐 Connect With Me
+
+[🌍 Portfolio](https://amanfolioo.netlify.app/) • [💼 LinkedIn](https://www.linkedin.com/in/aman179102/) • [🐦 X/Twitter](https://x.com/aman179102) • [📝 Dev.to](https://dev.to/aman179102/) • [📸 Instagram](https://www.instagram.com/aman179102)
+
+---
+
+> *"If it compiles, it probably works" — but I still write tests 😉*
+
+📫 **Reach me at:** amankk179102@gmail.com
