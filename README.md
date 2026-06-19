@@ -46,21 +46,10 @@ Deep learning system for cardiovascular risk prediction using retinal fundus ima
 ## 🏆 Achievements
 - 🔥 **80+ Hackathons** participated
 - ⭐ **150+ stars** across repositories
-- 👥 **20+ followers** on GitHub
 - 💼 Working at **InfySkill Eductech**
 - 📝 Published articles on dev.to
 
----
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman179102&show_icons=true&theme=dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aman179102&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman179102&layout=compact&theme=dark&hide_border=true)
-
----
 
 ## 🌐 Connect With Me
 
