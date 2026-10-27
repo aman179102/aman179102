@@ -51,7 +51,7 @@ More projects: [github.com/aman179102?tab=repositories](https://github.com/aman1
 
 ## Connect
 
-[Portfolio](https://amanfolioo.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/aman179102/) · [X](https://x.com/aman179102) · [Dev.to](https://dev.to/aman179102/) · [Email](mailto:amankk179102@gmail.com)
+[Portfolio](https://aman179102.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/aman179102/) · [X](https://x.com/aman179102) · [Dev.to](https://dev.to/aman179102/) · [Email](mailto:amankk179102@gmail.com)
 
 ---
 
