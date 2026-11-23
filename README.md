@@ -27,6 +27,7 @@
   <a href="https://www.linkedin.com/in/aman179102/"><img src="https://img.shields.io/badge/LinkedIn-aman179102-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://dev.to/aman179102/"><img src="https://img.shields.io/badge/Dev.to-aman179102-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
   <a href="https://gist.github.com/aman179102"><img src="https://img.shields.io/badge/Gists-Research_Notes-181717?style=for-the-badge&logo=github&logoColor=white" alt="Gists" /></a>
+  <a href="https://huggingface.co/aman179102"><img src="https://img.shields.io/badge/Hugging_Face-aman179102-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
   <a href="https://qiita.com/aman179102"><img src="https://img.shields.io/badge/Qiita-aman179102-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
   <a href="https://velog.io/@aman179102"><img src="https://img.shields.io/badge/Velog-aman179102-20C997?style=for-the-badge&logo=v&logoColor=white" alt="Velog" /></a>
   <a href="https://aman179102.itch.io/"><img src="https://img.shields.io/badge/itch.io-aman179102-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
