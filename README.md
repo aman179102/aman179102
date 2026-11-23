@@ -28,6 +28,9 @@
   <a href="https://dev.to/aman179102/"><img src="https://img.shields.io/badge/Dev.to-aman179102-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
   <a href="https://gist.github.com/aman179102"><img src="https://img.shields.io/badge/Gists-Research_Notes-181717?style=for-the-badge&logo=github&logoColor=white" alt="Gists" /></a>
   <a href="https://huggingface.co/aman179102"><img src="https://img.shields.io/badge/Hugging_Face-aman179102-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+  <a href="https://kaggle.com/aman179102"><img src="https://img.shields.io/badge/Kaggle-aman179102-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://gitlab.com/aman179102"><img src="https://img.shields.io/badge/GitLab-aman179102-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
+  <a href="https://codeberg.org/aman179102"><img src="https://img.shields.io/badge/Codeberg-aman179102-2185D0?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg" /></a>
   <a href="https://qiita.com/aman179102"><img src="https://img.shields.io/badge/Qiita-aman179102-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
   <a href="https://velog.io/@aman179102"><img src="https://img.shields.io/badge/Velog-aman179102-20C997?style=for-the-badge&logo=v&logoColor=white" alt="Velog" /></a>
   <a href="https://aman179102.itch.io/"><img src="https://img.shields.io/badge/itch.io-aman179102-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
