@@ -71,125 +71,48 @@ open_for: Remote Software Engineering Roles, Research Collaborations & Consultin
 
 ---
 
-### 🛠️ Tech Stack & Architecture Arsenal
+### 🛠️ Tech Stack & Systems Arsenal
 
-<p align="center">
-  <b>Languages & Core</b><br/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-</p>
-
-<p align="center">
-  <b>Frontend & UI/UX</b><br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Backend, Databases & Streaming</b><br/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>DevOps, Cloud & Infrastructure</b><br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>AI, Machine Learning & Automation</b><br/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-7928CA?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer_Vision-00599C?style=for-the-badge" />
-</p>
+<div align="center">
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ts,js,py,go,cpp,c,react,next,tailwind,threejs,fastapi&perline=11&theme=dark" alt="Tech Stack Core" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,mongodb,kafka,docker,kubernetes,linux,git,githubactions,pytorch&perline=11&theme=dark" alt="Backend and DevOps Stack" />
+    </a>
+  </p>
+</div>
 
 ---
 
 ### 🚀 Featured Engineering Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/aman179102/podvoice">podvoice</a> ⭐ 36</h3>
-      <p>Local-first CLI & Studio that converts structured Markdown scripts into realistic multi-speaker podcast audio with zero latency.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Coqui_XTTS_v2-FF6F00?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💻 <a href="https://github.com/aman179102/CodePad">CodePad</a> ⭐ 22</h3>
-      <p>Multi-language online cloud code editor, compiler, and isolated runtime execution sandbox with instant output streaming.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗄️ <a href="https://github.com/aman179102/distributed-file-storage-service">distributed-file-storage</a></h3>
-      <p>S3-compatible distributed object storage engine with Reed-Solomon erasure coding, auto-replication, deduplication, and Kubernetes CSI driver.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/aman179102/trust-aware">trust-aware</a> ⭐ 15</h3>
-      <p>Human-in-the-loop AI decision system detecting when neural model confidence is deceptive, triggering safety guardrails.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/aman179102/real-time-analytics-pipeline">real-time-analytics-pipeline</a></h3>
-      <p>High-throughput real-time streaming pipeline processing high RPS events with WebSocket dashboards and OpenTelemetry tracing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square" />
-        <img src="https://img.shields.io/badge/Redis_Kafka-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/aman179102/type-env">type-env</a></h3>
-      <p>Zero-dependency TypeScript runtime environment validator with automatic schema validation and static type generation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/npm_package-CB3837?style=flat-square&logo=npm&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
+  <p align="center">
+    <a href="https://github.com/aman179102/podvoice">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman179102&repo=podvoice&theme=tokyonight&hide_border=true&show_owner=false" width="48%" alt="podvoice" />
+    </a>
+    <a href="https://github.com/aman179102/CodePad">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman179102&repo=CodePad&theme=tokyonight&hide_border=true&show_owner=false" width="48%" alt="CodePad" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/aman179102/distributed-file-storage-service">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman179102&repo=distributed-file-storage-service&theme=tokyonight&hide_border=true&show_owner=false" width="48%" alt="distributed-file-storage-service" />
+    </a>
+    <a href="https://github.com/aman179102/trust-aware">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman179102&repo=trust-aware&theme=tokyonight&hide_border=true&show_owner=false" width="48%" alt="trust-aware" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/aman179102/real-time-analytics-pipeline">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman179102&repo=real-time-analytics-pipeline&theme=tokyonight&hide_border=true&show_owner=false" width="48%" alt="real-time-analytics-pipeline" />
+    </a>
+    <a href="https://github.com/aman179102/type-env">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman179102&repo=type-env&theme=tokyonight&hide_border=true&show_owner=false" width="48%" alt="type-env" />
+    </a>
+  </p>
+  <br/>
   <a href="https://github.com/aman179102?tab=repositories"><b>Explore all 40+ repositories ➔</b></a>
 </div>
 
@@ -257,38 +180,11 @@ open_for: Remote Software Engineering Roles, Research Collaborations & Consultin
 
 <br/>
 
-### 🏛️ Distributed Telemetry & Ingestion Architecture
+### 📈 Engineering Velocity & Activity Waveform
 
-```
-                      ┌────────────────────────────────────────┐
-                      │    Synthetic Traffic (10k - 100k RPS)  │
-                      └───────────────────┬────────────────────┘
-                                          │
-                     ┌────────────────────┴────────────────────┐
-                     ▼                                         ▼
-         Traditional User-Space                     eBPF In-Kernel Probe
-      ┌─────────────────────────┐               ┌─────────────────────────┐
-      │  Socket Context Switch  │               │ Lockless Ring Buffer    │
-      │  162MB RAM | 3.82ms p99 │               │ 28.4MB RAM | 1.36ms p99 │
-      └────────────┬────────────┘               └────────────┬────────────┘
-                   │                                         │
-                   └────────────────────┬────────────────────┘
-                                        ▼
-                   ┌─────────────────────────────────────────┐
-                   │ Docker Hub: telemetry-collector         │
-                   │ (Distroless Alpine Daemon | Zero Alloc) │
-                   └────────────────────┬────────────────────┘
-                                        ▼
-                   ┌─────────────────────────────────────────┐
-                   │ PyPI: aman-resilience-toolkit           │
-                   │ (Circuit Breaker | Bulkhead Limiter)    │
-                   └────────────────────┬────────────────────┘
-                                        ▼
-                   ┌─────────────────────────────────────────┐
-                   │ Real-Time Observability & OpenTelemetry │
-                   │ TimescaleDB • Redis Streams • Dashboards│
-                   └─────────────────────────────────────────┘
-```
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman179102&theme=tokyo-night&area=true&hide_border=true&custom_title=ENGINEERING%20VELOCITY%20%26%20CONTRIBUTION%20WAVE" width="100%" alt="Activity Waveform" />
+</div>
 
 ---
 
