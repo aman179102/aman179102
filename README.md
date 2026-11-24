@@ -16,6 +16,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aman179102&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <a href="https://doi.org/10.5281/zenodo.24493466"><img src="https://img.shields.io/badge/CERN_Zenodo-Published_Researcher-024dad?style=for-the-badge&logo=zenodo&logoColor=white" alt="CERN Zenodo Researcher" /></a>
+  <a href="https://scholar.google.com/citations?user=cVhFkv4AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Aman_Kumar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
   <a href="https://pypi.org/user/aman179102/"><img src="https://img.shields.io/badge/PyPI-Maintainer-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Maintainer" /></a>
   <img src="https://img.shields.io/badge/Status-Shipping_Production_Code-success?style=for-the-badge&logo=githubactions&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Open_To-Remote_SWE_Roles-blue?style=for-the-badge" alt="Open to roles" />
@@ -36,6 +37,7 @@
   <a href="https://hub.docker.com/u/aman179102"><img src="https://img.shields.io/badge/Docker_Hub-aman179102-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" /></a>
   <a href="https://pypi.org/user/aman179102/"><img src="https://img.shields.io/badge/PyPI-aman179102-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
   <a href="https://doi.org/10.5281/zenodo.24493466"><img src="https://img.shields.io/badge/Zenodo_DOI-10.5281%2Fzenodo.24493466-024dad?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo DOI" /></a>
+  <a href="https://scholar.google.com/citations?user=cVhFkv4AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Verified_Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
   <a href="https://qiita.com/aman179102"><img src="https://img.shields.io/badge/Qiita-aman179102-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
   <a href="https://velog.io/@aman179102"><img src="https://img.shields.io/badge/Velog-aman179102-20C997?style=for-the-badge&logo=v&logoColor=white" alt="Velog" /></a>
   <a href="https://aman179102.itch.io/"><img src="https://img.shields.io/badge/itch.io-aman179102-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
@@ -190,7 +192,7 @@ open_for: Remote Software Engineering Roles, Research Collaborations & Consultin
 
 ### 🏆 Honors & Engineering Highlights
 
-- 📑 **Published Systems Researcher @ CERN Zenodo**: Lead author of [*Empirical Benchmarking of eBPF-Based Telemetry Ingestion Overheads in Distributed Cloud-Native Microservices*](https://doi.org/10.5281/zenodo.24493466) (DOI: `10.5281/zenodo.24493466`).
+- 📑 **Published Systems Researcher @ CERN Zenodo & Google Scholar**: Lead author of [*Empirical Benchmarking of eBPF-Based Telemetry Ingestion Overheads in Distributed Cloud-Native Microservices*](https://doi.org/10.5281/zenodo.24493466) (DOI: `10.5281/zenodo.24493466`) | [Google Scholar Profile](https://scholar.google.com/citations?user=cVhFkv4AAAAJ).
 - 🎖️ **OpenAI Codex Hackathon**: Ranked in the **Top 30% of 2,989 participants** globally.
 - 📦 **PyPI & Docker Hub Author**: Maintainer of official Python packages ([aman-resilience-toolkit](https://pypi.org/project/aman-resilience-toolkit/)) and container daemons ([distributed-telemetry-collector](https://hub.docker.com/r/aman179102/distributed-telemetry-collector)).
 - 📊 **AI & Distributed Systems Research**: Published benchmark datasets on [Hugging Face](https://huggingface.co/aman179102) and [Kaggle](https://www.kaggle.com/aman179102).
