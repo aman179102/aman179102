@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://aman179102.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Architect+%7C+TypeScript%2C+Python%2C+Go;Building+Resilient+Distributed+Systems+%26+Cloud+Native;Autonomous+Agent+Engines+%26+Production+Automations;Shipping+Clean+Code+%26+Zero-Latency+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Architect+%7C+TypeScript%2C+Python%2C+Go;Published+Systems+Researcher+%40+CERN+Zenodo;Building+Resilient+Distributed+Systems+%26+Cloud+Native;Author+of+PyPI+%26+Docker+Hub+Telemetry+Packages;Autonomous+Agent+Engines+%26+Production+Pipelines" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -15,6 +15,8 @@
 <!-- PROFILE VIEWS & STATUS BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aman179102&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://doi.org/10.5281/zenodo.24493466"><img src="https://img.shields.io/badge/CERN_Zenodo-Published_Researcher-024dad?style=for-the-badge&logo=zenodo&logoColor=white" alt="CERN Zenodo Researcher" /></a>
+  <a href="https://pypi.org/user/aman179102/"><img src="https://img.shields.io/badge/PyPI-Maintainer-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Maintainer" /></a>
   <img src="https://img.shields.io/badge/Status-Shipping_Production_Code-success?style=for-the-badge&logo=githubactions&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Open_To-Remote_SWE_Roles-blue?style=for-the-badge" alt="Open to roles" />
 </p>
@@ -57,12 +59,14 @@ handle: aman179102
 education: B.Tech Computer Science Engineering
 current_role: Software Developer @ INFYSKILL EDUTECH (Remote)
 freelance: Web Developer @ Connect Sutra (Remote)
+academics: Published Systems Researcher @ CERN Zenodo (DOI: 10.5281/zenodo.24493466)
 focus_areas:
   - High-Throughput Distributed Systems & Storage Engines
+  - Kernel-Level Observability & eBPF Telemetry Daemons
   - Full-Stack Web Applications (React, Next.js, TypeScript)
   - Async Python/FastAPI Microservices & Real-Time Pipelines
   - Autonomous Multi-Agent Workflows & Cloud Automation
-open_for: Remote Software Engineering Roles, Internships & High-Impact Consulting
+open_for: Remote Software Engineering Roles, Research Collaborations & Consulting
 ```
 
 ---
@@ -236,30 +240,61 @@ open_for: Remote Software Engineering Roles, Internships & High-Impact Consultin
 
 ---
 
-### 📊 Real-Time GitHub Analytics
+### ⚡ Systems Engineering Benchmarks & Production Metrics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=aman179102&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee787&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com?user=aman179102&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=7ee787" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman179102&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="65%" />
-      </td>
-    </tr>
-  </table>
+
+| Domain / Pipeline | Quantified Benchmark & Real-World Impact | Production Artifact / Reference |
+| :--- | :--- | :--- |
+| **Kernel Telemetry Latency** | **64.2% reduction in p99 tail latency** (1.36ms vs 3.82ms @ 100k RPS) | [DOI: 10.5281/zenodo.24493466](https://doi.org/10.5281/zenodo.24493466) |
+| **Ingestion Memory Footprint** | **82.5% reduction** (28.4MB lockless ring buffer vs 162MB socket buffer) | [`distributed-telemetry-collector`](https://hub.docker.com/r/aman179102/distributed-telemetry-collector) |
+| **Distributed Resilience** | Multi-layer circuit breaker, bulkhead isolation & exponential backoff | [`aman-resilience-toolkit`](https://pypi.org/project/aman-resilience-toolkit/) (PyPI) |
+| **Object Storage Redundancy** | Reed-Solomon 4+2 Erasure Coding with S3 API & Kubernetes CSI | [`distributed-file-storage`](https://github.com/aman179102/distributed-file-storage-service) |
+| **Audio Synthesis Latency** | Local-first XTTS streaming pipeline with real-time markdown parsing | [`podvoice`](https://github.com/aman179102/podvoice) (⭐ 36) |
+| **Global Hackathon Standing** | **Top 30%** out of 2,989 global engineers | OpenAI Codex Hackathon |
+
 </div>
+
+<br/>
+
+### 🏛️ Distributed Telemetry & Ingestion Architecture
+
+```
+                      ┌────────────────────────────────────────┐
+                      │    Synthetic Traffic (10k - 100k RPS)  │
+                      └───────────────────┬────────────────────┘
+                                          │
+                     ┌────────────────────┴────────────────────┐
+                     ▼                                         ▼
+         Traditional User-Space                     eBPF In-Kernel Probe
+      ┌─────────────────────────┐               ┌─────────────────────────┐
+      │  Socket Context Switch  │               │ Lockless Ring Buffer    │
+      │  162MB RAM | 3.82ms p99 │               │ 28.4MB RAM | 1.36ms p99 │
+      └────────────┬────────────┘               └────────────┬────────────┘
+                   │                                         │
+                   └────────────────────┬────────────────────┘
+                                        ▼
+                   ┌─────────────────────────────────────────┐
+                   │ Docker Hub: telemetry-collector         │
+                   │ (Distroless Alpine Daemon | Zero Alloc) │
+                   └────────────────────┬────────────────────┘
+                                        ▼
+                   ┌─────────────────────────────────────────┐
+                   │ PyPI: aman-resilience-toolkit           │
+                   │ (Circuit Breaker | Bulkhead Limiter)    │
+                   └────────────────────┬────────────────────┘
+                                        ▼
+                   ┌─────────────────────────────────────────┐
+                   │ Real-Time Observability & OpenTelemetry │
+                   │ TimescaleDB • Redis Streams • Dashboards│
+                   └─────────────────────────────────────────┘
+```
 
 ---
 
 ### 🏆 Honors & Engineering Highlights
 
+- 📑 **Published Systems Researcher @ CERN Zenodo**: Lead author of [*Empirical Benchmarking of eBPF-Based Telemetry Ingestion Overheads in Distributed Cloud-Native Microservices*](https://doi.org/10.5281/zenodo.24493466) (DOI: `10.5281/zenodo.24493466`).
 - 🎖️ **OpenAI Codex Hackathon**: Ranked in the **Top 30% of 2,989 participants** globally.
 - 📦 **PyPI & Docker Hub Author**: Maintainer of official Python packages ([aman-resilience-toolkit](https://pypi.org/project/aman-resilience-toolkit/)) and container daemons ([distributed-telemetry-collector](https://hub.docker.com/r/aman179102/distributed-telemetry-collector)).
 - 📊 **AI & Distributed Systems Research**: Published benchmark datasets on [Hugging Face](https://huggingface.co/aman179102) and [Kaggle](https://www.kaggle.com/aman179102).
