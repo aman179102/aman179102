@@ -31,6 +31,8 @@
   <a href="https://kaggle.com/aman179102"><img src="https://img.shields.io/badge/Kaggle-aman179102-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://gitlab.com/aman179102"><img src="https://img.shields.io/badge/GitLab-aman179102-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
   <a href="https://codeberg.org/aman179102"><img src="https://img.shields.io/badge/Codeberg-aman179102-2185D0?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg" /></a>
+  <a href="https://hub.docker.com/u/aman179102"><img src="https://img.shields.io/badge/Docker_Hub-aman179102-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" /></a>
+  <a href="https://pypi.org/user/aman179102/"><img src="https://img.shields.io/badge/PyPI-aman179102-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
   <a href="https://qiita.com/aman179102"><img src="https://img.shields.io/badge/Qiita-aman179102-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
   <a href="https://velog.io/@aman179102"><img src="https://img.shields.io/badge/Velog-aman179102-20C997?style=for-the-badge&logo=v&logoColor=white" alt="Velog" /></a>
   <a href="https://aman179102.itch.io/"><img src="https://img.shields.io/badge/itch.io-aman179102-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
