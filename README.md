@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/Open_To-Remote_SWE_Roles-blue?style=for-the-badge" alt="Open to roles" />
 </p>
 
+<blockquote align="center"><i>"In high-throughput cloud-native systems, latency is non-negotiable. Building resilient, lockless distributed architectures from kernel probes to client streaming."</i></blockquote>
+
 <!-- SOCIAL & PLATFORM HUBS (CLICKABLE FOR-THE-BADGE) -->
 ### 🌐 Ecosystem & Technical Profiles
 
@@ -198,7 +200,7 @@ open_for: Remote Software Engineering Roles, Research Collaborations & Consultin
 ### 📈 Engineering Velocity & Activity Waveform
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aman179102/aman179102/main/assets/activity_waveform.svg" width="100%" alt="Engineering Velocity & Activity Waveform" />
+  <img src="https://raw.githubusercontent.com/aman179102/aman179102/main/assets/activity_waveform.svg?v=2" width="100%" alt="Engineering Velocity & Activity Waveform" />
 </div>
 
 ---
