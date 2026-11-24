@@ -33,6 +33,7 @@
   <a href="https://codeberg.org/aman179102"><img src="https://img.shields.io/badge/Codeberg-aman179102-2185D0?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg" /></a>
   <a href="https://hub.docker.com/u/aman179102"><img src="https://img.shields.io/badge/Docker_Hub-aman179102-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" /></a>
   <a href="https://pypi.org/user/aman179102/"><img src="https://img.shields.io/badge/PyPI-aman179102-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
+  <a href="https://doi.org/10.5281/zenodo.24493466"><img src="https://img.shields.io/badge/Zenodo_DOI-10.5281%2Fzenodo.24493466-024dad?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo DOI" /></a>
   <a href="https://qiita.com/aman179102"><img src="https://img.shields.io/badge/Qiita-aman179102-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
   <a href="https://velog.io/@aman179102"><img src="https://img.shields.io/badge/Velog-aman179102-20C997?style=for-the-badge&logo=v&logoColor=white" alt="Velog" /></a>
   <a href="https://aman179102.itch.io/"><img src="https://img.shields.io/badge/itch.io-aman179102-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
@@ -187,6 +188,27 @@ open_for: Remote Software Engineering Roles, Internships & High-Impact Consultin
 <div align="center">
   <a href="https://github.com/aman179102?tab=repositories"><b>Explore all 40+ repositories ➔</b></a>
 </div>
+
+---
+
+### 📄 Academic Research & Peer-Reviewed Preprints
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h4>📑 <a href="https://doi.org/10.5281/zenodo.24493466">Empirical Benchmarking of eBPF-Based Telemetry Ingestion Overheads in Distributed Cloud-Native Microservices</a></h4>
+      <p><b>Lead Author:</b> <b>Aman Kumar</b> (<code>@aman179102</code>) | <b>DOI:</b> <a href="https://doi.org/10.5281/zenodo.24493466"><code>10.5281/zenodo.24493466</code></a> | <b>Affiliation:</b> Independent Systems & AI Researcher</p>
+      <p>Empirical performance benchmarking analyzing kernel-level eBPF lockless ring buffer telemetry pipelines against traditional user-space socket context switching under workloads up to 100,000 RPS. Demonstrates a <b>64.2% reduction in p99 tail latency</b> (1.36ms vs 3.82ms) and an <b>82.5% decrease in memory footprint</b> (28.4MB vs 162MB).</p>
+      <p>
+        <a href="https://doi.org/10.5281/zenodo.24493466"><img src="https://img.shields.io/badge/Zenodo_Preprint-10.5281%2Fzenodo.24493466-024dad?style=flat-square&logo=zenodo&logoColor=white" /></a>
+        <a href="https://hub.docker.com/r/aman179102/distributed-telemetry-collector"><img src="https://img.shields.io/badge/Docker_Daemon-telemetry--collector-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
+        <a href="https://pypi.org/project/aman-resilience-toolkit/"><img src="https://img.shields.io/badge/PyPI_Package-aman--resilience--toolkit-3775A9?style=flat-square&logo=pypi&logoColor=white" /></a>
+        <a href="https://huggingface.co/aman179102"><img src="https://img.shields.io/badge/Hugging_Face-Datasets-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /></a>
+        <a href="https://kaggle.com/aman179102"><img src="https://img.shields.io/badge/Kaggle-Benchmarks-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
