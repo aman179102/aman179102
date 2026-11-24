@@ -175,10 +175,61 @@ open_for: Remote Software Engineering Roles, Research Collaborations & Consultin
 
 <br/>
 
-### 🖥️ Systems Telemetry & Kernel Runtime Environment
+### 🌐 Ecosystem & Technical Registries
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aman179102/aman179102/main/assets/terminal_telemetry.svg?v=1" width="100%" alt="Systems Telemetry Daemon Terminal" />
+
+<p align="center">
+  <b>🏛️ Academic Research & Scientific Registries</b><br/><br/>
+  <a href="https://doi.org/10.5281/zenodo.24493466"><img src="https://raw.githubusercontent.com/aman179102/aman179102/main/assets/badge_zenodo_doi.svg" alt="Zenodo DOI" /></a>
+  &nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=cVhFkv4AAAAJ"><img src="https://raw.githubusercontent.com/aman179102/aman179102/main/assets/badge_google_scholar_profile.svg" alt="Google Scholar" /></a>
+  &nbsp;&nbsp;
+  <a href="https://pypi.org/user/aman179102/"><img src="https://img.shields.io/badge/PyPI-aman179102-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
+  &nbsp;&nbsp;
+  <a href="https://hub.docker.com/u/aman179102"><img src="https://img.shields.io/badge/Docker_Hub-aman179102-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" /></a>
+  &nbsp;&nbsp;
+  <a href="https://huggingface.co/aman179102"><img src="https://img.shields.io/badge/Hugging_Face-aman179102-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+  &nbsp;&nbsp;
+  <a href="https://kaggle.com/aman179102"><img src="https://raw.githubusercontent.com/aman179102/aman179102/main/assets/badge_kaggle.svg" alt="Kaggle" /></a>
+</p>
+
+<br/>
+
+<p align="center">
+  <b>💻 Code Forges & Systems Writing</b><br/><br/>
+  <a href="https://aman179102.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-aman179102.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;&nbsp;
+  <a href="https://gitlab.com/aman179102"><img src="https://img.shields.io/badge/GitLab-aman179102-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
+  &nbsp;&nbsp;
+  <a href="https://codeberg.org/aman179102"><img src="https://img.shields.io/badge/Codeberg-aman179102-2185D0?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg" /></a>
+  &nbsp;&nbsp;
+  <a href="https://dev.to/aman179102/"><img src="https://img.shields.io/badge/Dev.to-aman179102-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+  &nbsp;&nbsp;
+  <a href="https://gist.github.com/aman179102"><img src="https://img.shields.io/badge/Gists-Research_Notes-181717?style=for-the-badge&logo=github&logoColor=white" alt="Gists" /></a>
+  &nbsp;&nbsp;
+  <a href="https://qiita.com/aman179102"><img src="https://img.shields.io/badge/Qiita-aman179102-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
+  &nbsp;&nbsp;
+  <a href="https://velog.io/@aman179102"><img src="https://img.shields.io/badge/Velog-aman179102-20C997?style=for-the-badge&logo=v&logoColor=white" alt="Velog" /></a>
+</p>
+
+<br/>
+
+<p align="center">
+  <b>📱 Connect Channels & Developer Media</b><br/><br/>
+  <a href="https://www.linkedin.com/in/aman179102/"><img src="https://img.shields.io/badge/LinkedIn-aman179102-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/aman179102"><img src="https://img.shields.io/badge/X-@aman179102-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  &nbsp;&nbsp;
+  <a href="https://daily.dev/aman179102"><img src="https://img.shields.io/badge/daily.dev-aman179102-6B46C1?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="daily.dev" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.npmjs.com/~aman179102"><img src="https://img.shields.io/badge/npm-aman179102-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
+  &nbsp;&nbsp;
+  <a href="https://aman179102.itch.io/"><img src="https://img.shields.io/badge/itch.io-aman179102-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:amankk179102@gmail.com"><img src="https://img.shields.io/badge/Email-amankk179102@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
 </div>
 
 ---
@@ -193,52 +244,6 @@ open_for: Remote Software Engineering Roles, Research Collaborations & Consultin
 - ⭐ **120+ Stars** earned across open-source public engineering repositories.
 - 🛠️ Core Maintainer of [podvoice](https://github.com/aman179102/podvoice), [CodePad](https://github.com/aman179102/CodePad), and developer utilities.
 - ✍️ Author of published systems research notes across [Dev.to](https://dev.to/aman179102/), [GitHub Gists](https://gist.github.com/aman179102), [Qiita](https://qiita.com/aman179102), and [Velog](https://velog.io/@aman179102).
-
----
-
-### 🌐 Complete Technical & Research Footprint
-
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th width="33%" align="center">🏛️ Academic &amp; Registries</th>
-      <th width="33%" align="center">💻 Code Forges &amp; Systems Writing</th>
-      <th width="33%" align="center">📱 Connect &amp; Networks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-        • <a href="https://doi.org/10.5281/zenodo.24493466"><b>CERN Zenodo</b> (DOI: 10.5281)</a><br/>
-        • <a href="https://scholar.google.com/citations?user=cVhFkv4AAAAJ"><b>Google Scholar</b> Profile</a><br/>
-        • <a href="https://pypi.org/user/aman179102/"><b>PyPI</b> Maintainer</a><br/>
-        • <a href="https://hub.docker.com/u/aman179102"><b>Docker Hub</b> Container Registry</a><br/>
-        • <a href="https://huggingface.co/aman179102"><b>Hugging Face</b> AI Datasets</a><br/>
-        • <a href="https://kaggle.com/aman179102"><b>Kaggle</b> Systems Benchmarks</a>
-      </td>
-      <td valign="top">
-        • <a href="https://aman179102.netlify.app/"><b>Personal Portfolio</b></a><br/>
-        • <a href="https://gitlab.com/aman179102"><b>GitLab</b> Engineering Forge</a><br/>
-        • <a href="https://codeberg.org/aman179102"><b>Codeberg</b> Open Source</a><br/>
-        • <a href="https://dev.to/aman179102/"><b>Dev.to</b> Systems Publications</a><br/>
-        • <a href="https://gist.github.com/aman179102"><b>GitHub Gists</b> Architecture Notes</a><br/>
-        • <a href="https://qiita.com/aman179102"><b>Qiita</b></a> • <a href="https://velog.io/@aman179102"><b>Velog</b></a>
-      </td>
-      <td valign="top">
-        • <a href="https://www.linkedin.com/in/aman179102/"><b>LinkedIn</b> Profile</a><br/>
-        • <a href="https://x.com/aman179102"><b>X (Twitter)</b> @aman179102</a><br/>
-        • <a href="https://daily.dev/aman179102"><b>daily.dev</b> Developer Rank</a><br/>
-        • <a href="https://www.npmjs.com/~aman179102"><b>npm Registry</b> Packages</a><br/>
-        • <a href="https://aman179102.itch.io/"><b>itch.io</b> Indie Projects</a><br/>
-        • <a href="mailto:amankk179102@gmail.com"><b>Direct Email</b></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
 
 ---
 
