@@ -190,6 +190,30 @@ open_for: Remote Software Engineering Roles, Internships & High-Impact Consultin
 
 ---
 
+### 📦 Official Published Packages & Container Registries
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🐍 <a href="https://pypi.org/project/aman-resilience-toolkit/">aman-resilience-toolkit</a></h4>
+      <p>Production circuit breaker, bulkhead limiter, and exponential retry policies published to official PyPI.</p>
+      <code>pip install aman-resilience-toolkit</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🐳 <a href="https://hub.docker.com/r/aman179102/distributed-telemetry-collector">telemetry-collector</a></h4>
+      <p>Distroless high-throughput eBPF & OpenTelemetry streaming metrics daemon on Docker Hub.</p>
+      <code>docker pull aman179102/distributed-telemetry-collector</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🤗 <a href="https://huggingface.co/aman179102">AI Research & Datasets</a></h4>
+      <p>Distributed telemetry benchmarks and systems telemetry datasets published to Hugging Face & Kaggle.</p>
+      <code>datasets: aman179102</code>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📊 Real-Time GitHub Analytics
 
 <div align="center">
@@ -215,6 +239,9 @@ open_for: Remote Software Engineering Roles, Internships & High-Impact Consultin
 ### 🏆 Honors & Engineering Highlights
 
 - 🎖️ **OpenAI Codex Hackathon**: Ranked in the **Top 30% of 2,989 participants** globally.
+- 📦 **PyPI & Docker Hub Author**: Maintainer of official Python packages ([aman-resilience-toolkit](https://pypi.org/project/aman-resilience-toolkit/)) and container daemons ([distributed-telemetry-collector](https://hub.docker.com/r/aman179102/distributed-telemetry-collector)).
+- 📊 **AI & Distributed Systems Research**: Published benchmark datasets on [Hugging Face](https://huggingface.co/aman179102) and [Kaggle](https://www.kaggle.com/aman179102).
+- 🏔️ **Multi-Forge Engineering**: Open-source repositories and code toolkits maintained across [GitHub](https://github.com/aman179102), [GitLab](https://gitlab.com/aman179102), and [Codeberg](https://codeberg.org/aman179102).
 - ⭐ **120+ Stars** earned across open-source public engineering repositories.
 - 🛠️ Core Maintainer of [podvoice](https://github.com/aman179102/podvoice), [CodePad](https://github.com/aman179102/CodePad), and developer utilities.
 - ✍️ Author of published systems research notes across [Dev.to](https://dev.to/aman179102/), [GitHub Gists](https://gist.github.com/aman179102), [Qiita](https://qiita.com/aman179102), and [Velog](https://velog.io/@aman179102).
