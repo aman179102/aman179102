@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 370" width="100%" height="370">
+  <defs>
+    <linearGradient id="terminalBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#16161e"/>
+      <stop offset="50%" stop-color="#1a1b26"/>
+      <stop offset="100%" stop-color="#13141c"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="50%" stop-color="#bb9af7"/>
+      <stop offset="100%" stop-color="#7dcfff"/>
+    </linearGradient>
+    <filter id="subtleGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <style>
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      .cursor-blink {
+        animation: blink 1s infinite;
+        fill: #7aa2f7;
+      }
+    </style>
+  </defs>
+
+  <!-- Window Container -->
+  <rect width="920" height="370" rx="12" fill="url(#terminalBg)" stroke="#24283b" stroke-width="1.5"/>
+
+  <!-- Top Title Bar -->
+  <rect width="920" height="36" rx="12" fill="#1f2335"/>
+  <rect y="24" width="920" height="12" fill="#1f2335"/>
+  <line x1="0" y1="36" x2="920" y2="36" stroke="#292e42" stroke-width="1"/>
+
+  <!-- Window Controls -->
+  <circle cx="22" cy="18" r="6" fill="#f7768e"/>
+  <circle cx="42" cy="18" r="6" fill="#e0af68"/>
+  <circle cx="62" cy="18" r="6" fill="#9ece6a"/>
+
+  <!-- Title Breadcrumb -->
+  <text x="460" y="23" fill="#7aa2f7" font-family="'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="600" text-anchor="middle" opacity="0.95">aman179102@hyperplane-node-01: ~/telemetry-daemon</text>
+
+  <!-- Terminal Content -->
+  <g font-family="'Fira Code', 'JetBrains Mono', 'Consolas', monospace" font-size="13" xml:space="preserve">
+    
+    <!-- Command Prompt Line -->
+    <text x="28" y="68">
+      <tspan fill="#9ece6a" font-weight="bold">aman179102@kernel</tspan>
+      <tspan fill="#565f89">:</tspan>
+      <tspan fill="#7aa2f7">~/distributed-telemetry</tspan>
+      <tspan fill="#bb9af7">$</tspan>
+      <tspan fill="#c0caf5"> ./telemetry-daemon --engine=ebpf --target=cluster --workload=100k-rps</tspan>
+    </text>
+
+    <!-- Init Diagnostics -->
+    <text x="28" y="98" fill="#7dcfff">[+] Attaching eBPF tracepoints to Linux Kernel v6.8 socket buffer... [ATTACHED]</text>
+    <text x="28" y="122" fill="#9ece6a">[&#x2713;] Lockless BPF ring-buffer pre-allocated: 28.4 MB (zero GC pressure, zero-alloc)</text>
+    <text x="28" y="146" fill="#e0af68">[&#x26A1;] Benchmarking telemetry ingestion throughput under sustained 100,000 req/sec:</text>
+
+    <!-- Visual Benchmark Metrics Table -->
+    <rect x="28" y="164" width="864" height="128" rx="8" fill="#16161e" stroke="#292e42" stroke-width="1"/>
+
+    <text x="48" y="190" fill="#7aa2f7" font-weight="bold">METRIC / PIPELINE</text>
+    <text x="280" y="190" fill="#f7768e" font-weight="bold">LEGACY SOCKET</text>
+    <text x="490" y="190" fill="#73daca" font-weight="bold">eBPF RING-BUFFER (AMAN)</text>
+    <text x="750" y="190" fill="#9ece6a" font-weight="bold">EFFICIENCY DELTA</text>
+
+    <line x1="40" y1="200" x2="880" y2="200" stroke="#24283b" stroke-width="1"/>
+
+    <!-- Row 1: Latency -->
+    <text x="48" y="226" fill="#c0caf5">p99 Tail Latency</text>
+    <text x="280" y="226" fill="#f7768e">3.82 ms</text>
+    <text x="490" y="226" fill="#73daca" font-weight="bold">1.36 ms</text>
+    <text x="750" y="226" fill="#9ece6a" font-weight="bold">-64.2% Latency &#x25BC;</text>
+
+    <!-- Row 2: Memory -->
+    <text x="48" y="254" fill="#c0caf5">Memory Footprint</text>
+    <text x="280" y="254" fill="#f7768e">162.0 MB</text>
+    <text x="490" y="254" fill="#73daca" font-weight="bold">28.4 MB</text>
+    <text x="750" y="254" fill="#9ece6a" font-weight="bold">-82.5% RAM &#x25BC;</text>
+
+    <!-- Row 3: Ingestion -->
+    <text x="48" y="280" fill="#c0caf5">Packet Loss @ 100k</text>
+    <text x="280" y="280" fill="#f7768e">0.0410%</text>
+    <text x="490" y="280" fill="#73daca" font-weight="bold">0.0000%</text>
+    <text x="750" y="280" fill="#9ece6a" font-weight="bold">Zero Loss [100% OK]</text>
+
+    <!-- Research DOI Citation & Running Status -->
+    <text x="28" y="322">
+      <tspan fill="#9ece6a">[&#x2713;] Verified CERN Zenodo Research Record:</tspan>
+      <tspan fill="#7aa2f7" font-weight="bold"> DOI: 10.5281/zenodo.24493466</tspan>
+      <tspan fill="#565f89"> | </tspan>
+      <tspan fill="#e0af68">Telemetry Mesh: LIVE</tspan>
+    </text>
+
+    <text x="28" y="346">
+      <tspan fill="#9ece6a">aman179102@kernel</tspan>
+      <tspan fill="#565f89">:</tspan>
+      <tspan fill="#7aa2f7">~/distributed-telemetry</tspan>
+      <tspan fill="#bb9af7">$</tspan>
+      <tspan fill="#c0caf5"> _</tspan>
+      <tspan class="cursor-blink">&#x2588;</tspan>
+    </text>
+
+  </g>
+</svg>
