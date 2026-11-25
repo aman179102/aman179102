@@ -32,6 +32,8 @@
   &nbsp;&nbsp;
   <a href="https://www.producthunt.com/@aman179102"><img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt" /></a>
   &nbsp;&nbsp;
+  <a href="https://about.me/aman179102"><img src="https://img.shields.io/badge/About.me-00A388?style=for-the-badge&logo=aboutme&logoColor=white" alt="About.me" /></a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aman179102/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
   <a href="https://x.com/aman179102"><img src="https://img.shields.io/badge/X-@aman179102-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -241,6 +243,8 @@ open_for: Remote Software Engineering Roles, Research Collaborations & Consultin
   <a href="https://hackernoon.com/u/aman179102"><img src="https://img.shields.io/badge/HackerNoon-aman179102-00EB80?style=for-the-badge&logo=hackernoon&logoColor=black" alt="HackerNoon" /></a>
   &nbsp;&nbsp;
   <a href="https://www.producthunt.com/@aman179102"><img src="https://img.shields.io/badge/Product_Hunt-aman179102-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt" /></a>
+  &nbsp;&nbsp;
+  <a href="https://about.me/aman179102"><img src="https://img.shields.io/badge/About.me-aman179102-00A388?style=for-the-badge&logo=aboutme&logoColor=white" alt="About.me" /></a>
   &nbsp;&nbsp;
   <a href="https://gist.github.com/aman179102"><img src="https://img.shields.io/badge/Gists-Research_Notes-181717?style=for-the-badge&logo=github&logoColor=white" alt="Gists" /></a>
   &nbsp;&nbsp;
