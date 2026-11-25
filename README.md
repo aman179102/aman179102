@@ -124,6 +124,19 @@ open_for: Remote Software Engineering Roles, Research Collaborations & Consultin
 <table>
   <tr>
     <td width="100%" valign="top">
+      <h4>📑 <a href="https://www.academia.edu/181981981/Deterministic_High_Throughput_I_O_Comparative_Latency_and_Memory_Analysis_of_io_uring_vs_epoll_in_Distributed_Linux_Gateways">Deterministic High-Throughput I/O: Comparative Latency and Memory Analysis of io_uring vs. epoll in Distributed Linux Gateways</a></h4>
+      <p><b>Lead Author:</b> <b>Aman Kumar</b> (<code>@aman179102</code>) | <b>Working Paper:</b> <a href="https://independentresearcher.academia.edu/aman179102"><code>Academia.edu/181981981</code></a> | <b>Affiliation:</b> Independent Systems & AI Researcher</p>
+      <p>Comparative tail-latency and memory footprint analysis of <code>io_uring</code> (SQPOLL) against <code>epoll</code> across 50,000 concurrent client streams. Demonstrates a <b>2.8x throughput increase (398k RPS vs 142k RPS)</b>, a <b>78.1% drop in p99.9 tail latency (1.84ms vs 8.42ms)</b>, and a <b>62.0% reduction in voluntary context switches</b>.</p>
+      <p>
+        <a href="https://www.academia.edu/181981981/Deterministic_High_Throughput_I_O_Comparative_Latency_and_Memory_Analysis_of_io_uring_vs_epoll_in_Distributed_Linux_Gateways"><img src="https://img.shields.io/badge/Academia.edu-Research_Paper-171515?style=flat-square&logoColor=white" /></a>
+        <a href="https://news.ycombinator.com/item?id=50645007"><img src="https://img.shields.io/badge/Hacker_News-Show_HN-FF6600?style=flat-square&logo=ycombinator&logoColor=white" /></a>
+        <a href="https://dev.to/aman179102/why-iouring-crushes-epoll-in-tail-latency-empirical-linux-gateway-benchmarks-2m8l"><img src="https://img.shields.io/badge/Dev.to-Technical_Article-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" /></a>
+        <a href="https://amankumarblog.hashnode.dev/why-io-uring-crushes-epoll-in-tail-latency-empirical-linux-gateway-benchmarks"><img src="https://img.shields.io/badge/Hashnode-Deep_Dive-2962FF?style=flat-square&logo=hashnode&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <h4>📑 <a href="https://doi.org/10.5281/zenodo.24493466">Empirical Benchmarking of eBPF-Based Telemetry Ingestion Overheads in Distributed Cloud-Native Microservices</a></h4>
       <p><b>Lead Author:</b> <b>Aman Kumar</b> (<code>@aman179102</code>) | <b>DOI:</b> <a href="https://doi.org/10.5281/zenodo.24493466"><code>10.5281/zenodo.24493466</code></a> | <b>Affiliation:</b> Independent Systems & AI Researcher</p>
       <p>Empirical performance benchmarking analyzing kernel-level eBPF lockless ring buffer telemetry pipelines against traditional user-space socket context switching under workloads up to 100,000 RPS. Demonstrates a <b>64.2% reduction in p99 tail latency</b> (1.36ms vs 3.82ms) and an <b>82.5% decrease in memory footprint</b> (28.4MB vs 162MB).</p>
@@ -144,19 +157,24 @@ open_for: Remote Software Engineering Roles, Research Collaborations & Consultin
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <h4>⚡ <a href="https://github.com/aman179102/http-healthcheck-action">http-healthcheck-action</a></h4>
+      <p>Ultra-fast zero-dependency latency assertion & endpoint healthcheck GitHub Action.</p>
+      <code>uses: aman179102/http-healthcheck-action@v1</code>
+    </td>
+    <td width="25%" valign="top">
       <h4>🐍 <a href="https://pypi.org/project/aman-resilience-toolkit/">aman-resilience-toolkit</a></h4>
-      <p>Production circuit breaker, bulkhead limiter, and exponential retry policies published to official PyPI.</p>
+      <p>Production circuit breaker, bulkhead limiter, and retry policies on PyPI.</p>
       <code>pip install aman-resilience-toolkit</code>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h4>🐳 <a href="https://hub.docker.com/r/aman179102/distributed-telemetry-collector">telemetry-collector</a></h4>
-      <p>Distroless high-throughput eBPF & OpenTelemetry streaming metrics daemon on Docker Hub.</p>
+      <p>High-throughput eBPF & OpenTelemetry streaming metrics daemon on Docker Hub.</p>
       <code>docker pull aman179102/distributed-telemetry-collector</code>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h4>🤗 <a href="https://huggingface.co/aman179102">AI Research & Datasets</a></h4>
-      <p>Distributed telemetry benchmarks and systems telemetry datasets published to Hugging Face & Kaggle.</p>
+      <p>Systems telemetry datasets & benchmarks published to Hugging Face & Kaggle.</p>
       <code>datasets: aman179102</code>
     </td>
   </tr>
@@ -170,8 +188,10 @@ open_for: Remote Software Engineering Roles, Research Collaborations & Consultin
 
 | Domain / Pipeline | Quantified Benchmark & Real-World Impact | Production Artifact / Reference |
 | :--- | :--- | :--- |
+| **Linux Kernel Gateway I/O** | **2.8x throughput (398k RPS) & 78.1% p99.9 latency drop** | [Academia.edu Paper](https://www.academia.edu/181981981/Deterministic_High_Throughput_I_O_Comparative_Latency_and_Memory_Analysis_of_io_uring_vs_epoll_in_Distributed_Linux_Gateways) / [Hacker News](https://news.ycombinator.com/item?id=50645007) |
 | **Kernel Telemetry Latency** | **64.2% reduction in p99 tail latency** (1.36ms vs 3.82ms @ 100k RPS) | [DOI: 10.5281/zenodo.24493466](https://doi.org/10.5281/zenodo.24493466) |
 | **Ingestion Memory Footprint** | **82.5% reduction** (28.4MB lockless ring buffer vs 162MB socket buffer) | [`distributed-telemetry-collector`](https://hub.docker.com/r/aman179102/distributed-telemetry-collector) |
+| **CI/CD Latency Probing** | **Zero-dependency native Node.js SLA assertions & healthcheck** | [`http-healthcheck-action`](https://github.com/aman179102/http-healthcheck-action) (`v1.0.0`) |
 | **Distributed Resilience** | Multi-layer circuit breaker, bulkhead isolation & exponential backoff | [`aman-resilience-toolkit`](https://pypi.org/project/aman-resilience-toolkit/) (PyPI) |
 | **Object Storage Redundancy** | Reed-Solomon 4+2 Erasure Coding with S3 API & Kubernetes CSI | [`distributed-file-storage`](https://github.com/aman179102/distributed-file-storage-service) |
 | **Audio Synthesis Latency** | Local-first XTTS streaming pipeline with real-time markdown parsing | [`podvoice`](https://github.com/aman179102/podvoice) (⭐ 36) |
