@@ -20,6 +20,8 @@
   &nbsp;&nbsp;
   <a href="https://doi.org/10.5281/zenodo.24493466"><img src="https://raw.githubusercontent.com/aman179102/aman179102/main/assets/badge_zenodo_published.svg" alt="CERN Zenodo Researcher" /></a>
   &nbsp;&nbsp;
+  <a href="https://independentresearcher.academia.edu/aman179102"><img src="https://img.shields.io/badge/Academia.edu-aman179102-171515?style=for-the-badge&logoColor=white" alt="Academia.edu" /></a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aman179102/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
   <a href="https://x.com/aman179102"><img src="https://img.shields.io/badge/X-@aman179102-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -54,7 +56,7 @@ handle: aman179102
 education: B.Tech Computer Science Engineering
 current_role: Software Developer @ INFYSKILL EDUTECH (Remote)
 freelance: Web Developer @ Connect Sutra (Remote)
-academics: Published Systems Researcher @ CERN Zenodo (DOI: 10.5281/zenodo.24493466)
+academics: Published Systems Researcher @ CERN Zenodo (DOI: 10.5281/zenodo.24493466) & Academia.edu
 focus_areas:
   - High-Throughput Distributed Systems & Storage Engines
   - Kernel-Level Observability & eBPF Telemetry Daemons
@@ -236,7 +238,9 @@ open_for: Remote Software Engineering Roles, Research Collaborations & Consultin
 
 ### 🏆 Honors & Engineering Highlights
 
-- 📑 **Published Systems Researcher @ CERN Zenodo & Google Scholar**: Lead author of [*Empirical Benchmarking of eBPF-Based Telemetry Ingestion Overheads in Distributed Cloud-Native Microservices*](https://doi.org/10.5281/zenodo.24493466) (DOI: `10.5281/zenodo.24493466`) | [Google Scholar Profile](https://scholar.google.com/citations?user=cVhFkv4AAAAJ).
+- 📑 **Published Systems Researcher @ Academia.edu, CERN Zenodo & Google Scholar**:
+  - Author of [*Deterministic High-Throughput I/O: Comparative Latency and Memory Analysis of io_uring vs. epoll in Distributed Linux Gateways*](https://www.academia.edu/181981981/Deterministic_High_Throughput_I_O_Comparative_Latency_and_Memory_Analysis_of_io_uring_vs_epoll_in_Distributed_Linux_Gateways) on [Academia.edu](https://independentresearcher.academia.edu/aman179102).
+  - Lead author of [*Empirical Benchmarking of eBPF-Based Telemetry Ingestion Overheads in Distributed Cloud-Native Microservices*](https://doi.org/10.5281/zenodo.24493466) (DOI: `10.5281/zenodo.24493466`) on [CERN Zenodo](https://doi.org/10.5281/zenodo.24493466) | [Google Scholar Profile](https://scholar.google.com/citations?user=cVhFkv4AAAAJ).
 - 🎖️ **OpenAI Codex Hackathon**: Ranked in the **Top 30% of 2,989 participants** globally.
 - 📦 **PyPI & Docker Hub Author**: Maintainer of official Python packages ([aman-resilience-toolkit](https://pypi.org/project/aman-resilience-toolkit/)) and container daemons ([distributed-telemetry-collector](https://hub.docker.com/r/aman179102/distributed-telemetry-collector)).
 - 📊 **AI & Distributed Systems Research**: Published benchmark datasets on [Hugging Face](https://huggingface.co/aman179102) and [Kaggle](https://www.kaggle.com/aman179102).
