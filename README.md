@@ -24,6 +24,8 @@
   &nbsp;&nbsp;
   <a href="https://orcid.org/0009-0002-5219-5949"><img src="https://img.shields.io/badge/ORCID-0009--0002--5219--5949-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD" /></a>
   &nbsp;&nbsp;
+  <a href="https://www.wikidata.org/wiki/Q142288884"><img src="https://img.shields.io/badge/Wikidata-Q142288884-339966?style=for-the-badge&logo=wikidata&logoColor=white" alt="Wikidata" /></a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aman179102/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
   <a href="https://x.com/aman179102"><img src="https://img.shields.io/badge/X-@aman179102-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -58,7 +60,7 @@ handle: aman179102
 education: B.Tech Computer Science Engineering
 current_role: Software Developer @ INFYSKILL EDUTECH (Remote)
 freelance: Web Developer @ Connect Sutra (Remote)
-academics: Published Systems Researcher @ ORCID (0009-0002-5219-5949), CERN Zenodo & Academia.edu
+academics: Published Systems Researcher @ Wikidata (Q142288884), ORCID (0009-0002-5219-5949), CERN Zenodo & Academia.edu
 focus_areas:
   - High-Throughput Distributed Systems & Storage Engines
   - Kernel-Level Observability & eBPF Telemetry Daemons
@@ -240,7 +242,8 @@ open_for: Remote Software Engineering Roles, Research Collaborations & Consultin
 
 ### 🏆 Honors & Engineering Highlights
 
-- 📑 **Published Systems Researcher @ ORCID, Academia.edu, CERN Zenodo & Google Scholar**:
+- 📑 **Published Systems Researcher @ Wikidata, ORCID, Academia.edu, CERN Zenodo & Google Scholar**:
+  - Official Wikidata Entity: [Wikidata Q142288884](https://www.wikidata.org/wiki/Q142288884)
   - Official Verified Researcher Record: [ORCID iD: 0009-0002-5219-5949](https://orcid.org/0009-0002-5219-5949)
   - Author of [*Deterministic High-Throughput I/O: Comparative Latency and Memory Analysis of io_uring vs. epoll in Distributed Linux Gateways*](https://www.academia.edu/181981981/Deterministic_High_Throughput_I_O_Comparative_Latency_and_Memory_Analysis_of_io_uring_vs_epoll_in_Distributed_Linux_Gateways) on [Academia.edu](https://independentresearcher.academia.edu/aman179102).
   - Lead author of [*Empirical Benchmarking of eBPF-Based Telemetry Ingestion Overheads in Distributed Cloud-Native Microservices*](https://doi.org/10.5281/zenodo.24493466) (DOI: `10.5281/zenodo.24493466`) on [CERN Zenodo](https://doi.org/10.5281/zenodo.24493466) | [Google Scholar Profile](https://scholar.google.com/citations?user=cVhFkv4AAAAJ).
