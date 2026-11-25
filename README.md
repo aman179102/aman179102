@@ -26,6 +26,8 @@
   &nbsp;&nbsp;
   <a href="https://www.wikidata.org/wiki/Q142288884"><img src="https://img.shields.io/badge/Wikidata-Q142288884-339966?style=for-the-badge&logo=wikidata&logoColor=white" alt="Wikidata" /></a>
   &nbsp;&nbsp;
+  <a href="https://www.crunchbase.com/person/aman-kumar-c679"><img src="https://img.shields.io/badge/Crunchbase-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white" alt="Crunchbase" /></a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aman179102/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
   <a href="https://x.com/aman179102"><img src="https://img.shields.io/badge/X-@aman179102-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -60,7 +62,7 @@ handle: aman179102
 education: B.Tech Computer Science Engineering
 current_role: Software Developer @ INFYSKILL EDUTECH (Remote)
 freelance: Web Developer @ Connect Sutra (Remote)
-academics: Published Systems Researcher @ Wikidata (Q142288884), ORCID (0009-0002-5219-5949), CERN Zenodo & Academia.edu
+academics: Published Systems Researcher @ Wikidata (Q142288884), Crunchbase, ORCID (0009-0002-5219-5949), CERN Zenodo & Academia.edu
 focus_areas:
   - High-Throughput Distributed Systems & Storage Engines
   - Kernel-Level Observability & eBPF Telemetry Daemons
