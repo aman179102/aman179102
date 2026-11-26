@@ -140,6 +140,21 @@ open_for: Remote Software Engineering Roles, Research Collaborations & Consultin
 <table>
   <tr>
     <td width="100%" valign="top">
+      <h4>📑 <a href="https://aman179102.netlify.app/research/sysprobe.html">sysprobe: Real-Time Non-Invasive Linux Kernel Diagnostics via Virtual Procfs Extraction</a></h4>
+      <p><b>Lead Author:</b> <b>Aman Kumar</b> (<code>@aman179102</code>) | <b>Publication Portal:</b> <a href="https://aman179102.netlify.app/research/sysprobe.html"><code>aman179102.netlify.app/research/sysprobe.html</code></a> | <b>PDF:</b> <a href="https://aman179102.netlify.app/research/sysprobe_linux_kernel_diagnostics_whitepaper.pdf">IEEE Grade PDF</a></p>
+      <p>Tackles the "Heavy Agent Paradox" during severe cloud outages. Leverages single-pass userspace streaming filters against Linux virtual filesystems (<code>/proc</code> and <code>/sys</code>) to achieve <b>sub-4ms diagnostic execution</b> with <b>under 1.2MB peak resident memory</b> (5.3x faster and 24x lower memory than Prometheus node_exporter).</p>
+      <p>
+        <a href="https://aman179102.netlify.app/research/sysprobe_linux_kernel_diagnostics_whitepaper.pdf"><img src="https://img.shields.io/badge/Whitepaper-PDF_Download-2563EB?style=flat-square&logoColor=white" /></a>
+        <a href="https://amankumarblog.hashnode.dev/sysprobe-building-a-zero-dependency-linux-observability-cli-in-tokyo-night-ansi"><img src="https://img.shields.io/badge/Hashnode-Published_Article-2962FF?style=flat-square&logo=hashnode&logoColor=white" /></a>
+        <a href="https://dev.to/aman179102/sysprobe-building-a-zero-dependency-linux-observability-cli-5d51"><img src="https://img.shields.io/badge/Dev.to-Deep_Dive-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" /></a>
+        <a href="https://github.com/aman179102/sysprobe"><img src="https://img.shields.io/badge/GitHub-sysprobe-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://gitlab.com/aman179102/sysprobe"><img src="https://img.shields.io/badge/GitLab-sysprobe-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /></a>
+        <a href="https://codeberg.org/aman179102/sysprobe"><img src="https://img.shields.io/badge/Codeberg-sysprobe-2185D0?style=flat-square&logo=codeberg&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <h4>📑 <a href="https://www.academia.edu/181981981/Deterministic_High_Throughput_I_O_Comparative_Latency_and_Memory_Analysis_of_io_uring_vs_epoll_in_Distributed_Linux_Gateways">Deterministic High-Throughput I/O: Comparative Latency and Memory Analysis of io_uring vs. epoll in Distributed Linux Gateways</a></h4>
       <p><b>Lead Author:</b> <b>Aman Kumar</b> (<code>@aman179102</code>) | <b>Working Paper:</b> <a href="https://independentresearcher.academia.edu/aman179102"><code>Academia.edu/181981981</code></a> | <b>Affiliation:</b> Independent Systems & AI Researcher</p>
       <p>Comparative tail-latency and memory footprint analysis of <code>io_uring</code> (SQPOLL) against <code>epoll</code> across 50,000 concurrent client streams. Demonstrates a <b>2.8x throughput increase (398k RPS vs 142k RPS)</b>, a <b>78.1% drop in p99.9 tail latency (1.84ms vs 8.42ms)</b>, and a <b>62.0% reduction in voluntary context switches</b>.</p>
@@ -192,6 +207,28 @@ open_for: Remote Software Engineering Roles, Research Collaborations & Consultin
       <h4>🤗 <a href="https://huggingface.co/aman179102">AI Research & Datasets</a></h4>
       <p>Systems telemetry datasets & benchmarks published to Hugging Face & Kaggle.</p>
       <code>datasets: aman179102</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <h4>🍺 <a href="https://github.com/aman179102/homebrew-tap">sysprobe (Homebrew)</a></h4>
+      <p>Zero-dependency Linux latency and systems observability CLI in Tokyo Night ANSI.</p>
+      <code>brew tap aman179102/tap && brew install sysprobe</code>
+    </td>
+    <td width="25%" valign="top">
+      <h4>🐍 <a href="https://pypi.org/project/aman-saga-flow/">aman-saga-flow</a></h4>
+      <p>AsyncIO distributed saga transaction coordinator on PyPI with automatic compensation.</p>
+      <code>pip install aman-saga-flow</code>
+    </td>
+    <td width="25%" valign="top">
+      <h4>🐳 <a href="https://hub.docker.com/r/aman179102/sysprobe">sysprobe (Docker Hub)</a></h4>
+      <p>Containerized Tokyo Night systems diagnostic CLI daemon on Docker Hub.</p>
+      <code>docker pull aman179102/sysprobe</code>
+    </td>
+    <td width="25%" valign="top">
+      <h4>📦 <a href="https://pypi.org/project/aman-telemetry-core/">aman-telemetry-core</a></h4>
+      <p>Sub-millisecond low-overhead telemetry ingestion bridge for Python on PyPI.</p>
+      <code>pip install aman-telemetry-core</code>
     </td>
   </tr>
 </table>
