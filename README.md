@@ -98,6 +98,14 @@ open_for: Remote Software Engineering Roles, Research Collaborations & Consultin
 
 <div align="center">
   <p align="center">
+    <a href="https://github.com/aman179102/sysprobe">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman179102&repo=sysprobe&theme=tokyonight&hide_border=true&show_owner=false" width="48%" alt="sysprobe" />
+    </a>
+    <a href="https://github.com/aman179102/awesome-iouring">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman179102&repo=awesome-iouring&theme=tokyonight&hide_border=true&show_owner=false" width="48%" alt="awesome-iouring" />
+    </a>
+  </p>
+  <p align="center">
     <a href="https://github.com/aman179102/podvoice">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman179102&repo=podvoice&theme=tokyonight&hide_border=true&show_owner=false" width="48%" alt="podvoice" />
     </a>
