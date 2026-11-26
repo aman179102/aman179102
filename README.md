@@ -145,8 +145,11 @@ open_for: Remote Software Engineering Roles, Research Collaborations & Consultin
       <p>Tackles the "Heavy Agent Paradox" during severe cloud outages. Leverages single-pass userspace streaming filters against Linux virtual filesystems (<code>/proc</code> and <code>/sys</code>) to achieve <b>sub-4ms diagnostic execution</b> with <b>under 1.2MB peak resident memory</b> (5.3x faster and 24x lower memory than Prometheus node_exporter).</p>
       <p>
         <a href="https://aman179102.netlify.app/research/sysprobe_linux_kernel_diagnostics_whitepaper.pdf"><img src="https://img.shields.io/badge/Whitepaper-PDF_Download-2563EB?style=flat-square&logoColor=white" /></a>
+        <a href="https://aman179102.netlify.app/press/sysprobe-release-2026.html"><img src="https://img.shields.io/badge/Press_Wire-Official_Release-DC2626?style=flat-square&logoColor=white" /></a>
         <a href="https://amankumarblog.hashnode.dev/sysprobe-building-a-zero-dependency-linux-observability-cli-in-tokyo-night-ansi"><img src="https://img.shields.io/badge/Hashnode-Published_Article-2962FF?style=flat-square&logo=hashnode&logoColor=white" /></a>
-        <a href="https://dev.to/aman179102/sysprobe-building-a-zero-dependency-linux-observability-cli-5d51"><img src="https://img.shields.io/badge/Dev.to-Deep_Dive-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" /></a>
+        <a href="https://dev.to/aman179102/sysprobe-building-a-zero-dependency-linux-observability-cli-in-tokyo-night-ansi-5d51"><img src="https://img.shields.io/badge/Dev.to-Deep_Dive-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" /></a>
+        <a href="https://qiita.com/aman179102/items/ade018823fb90efd8dab"><img src="https://img.shields.io/badge/Qiita-Japan_Release-55C500?style=flat-square&logo=qiita&logoColor=white" /></a>
+        <a href="https://github.com/aman179102/homebrew-tap"><img src="https://img.shields.io/badge/Homebrew-Tap_Install-FBB040?style=flat-square&logo=homebrew&logoColor=black" /></a>
         <a href="https://github.com/aman179102/sysprobe"><img src="https://img.shields.io/badge/GitHub-sysprobe-181717?style=flat-square&logo=github&logoColor=white" /></a>
         <a href="https://gitlab.com/aman179102/sysprobe"><img src="https://img.shields.io/badge/GitLab-sysprobe-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /></a>
         <a href="https://codeberg.org/aman179102/sysprobe"><img src="https://img.shields.io/badge/Codeberg-sysprobe-2185D0?style=flat-square&logo=codeberg&logoColor=white" /></a>
